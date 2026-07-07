@@ -2,7 +2,7 @@
 
 A personal poetry website by **Mitraa Srinivasan**. Every poem lives as a star in a navigable 3D night sky. Drag to explore, click a star (or a row in the index) to open a piece in a theatre-dark reader, where stanzas rise one by one and acrostic letters glow along the spine of the poem.
 
-Live site: `https://<your-github-username>.github.io/<your-repo-name>/`
+Live site: `https://mitraa-srinivasan.github.io/constellarium/`
 
 ## About
 
